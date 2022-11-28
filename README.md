@@ -1,2 +1,2 @@
-# Ejerciio-Frontend-libros
+# Ejercicio-Frontend-libros
 Ejercicio de Frontend de libros y autor
